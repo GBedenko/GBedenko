@@ -12,14 +12,14 @@
 [<img align="left" alt="JavaScript" style="margin-right: 10px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][repos]
 [<img align="left" alt="TypeScript" style="margin-right: 10px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][repos]
 [<img align="left" alt="Python" style="margin-right: 10px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][repos]
-[<img align="left" alt="Go" style="margin-right: 10px; margin-top: 15px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" />][repos]
-
-<br />
-<br />
-<br />
-
-[<img align="left" alt="NodeJS" style="margin-right: 10px; margin-top: 5px" width="50px" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" />][repos]
 [<img align="left" alt="Jest" style="margin-right: 10px" width="50px" src="https://miro.medium.com/max/600/1*RQwRLQ0yyCvYmRn_Nst5yg.png" />][repos]
+
+<br />
+<br />
+<br />
+
+[<img align="left" alt="Linux" style="margin-right: 10px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />][repos]
+[<img align="left" alt="Git" style="margin-right: 10px" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][repos]
 [<img align="left" alt="MySQL" style="margin-right: 10px" width="50px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />][repos]
 [<img align="left" alt="Postman" style="margin-right: 10px" width="50px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" />][repos]
 
@@ -30,15 +30,6 @@
 [<img align="left" alt="HTML" style="margin-right: 10px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][repos]
 [<img align="left" alt="CSS" style="margin-right: 10px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][repos]
 [<img align="left" alt="Angular" style="margin-right: 10px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][repos]
-[<img align="left" alt="Bootstrap" style="margin-right: 10px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][repos]
-
-<br />
-<br />
-<br />
-
-[<img align="left" alt="Linux" style="margin-right: 10px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />][repos]
-[<img align="left" alt="Git" style="margin-right: 10px" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][repos]
-[<img align="left" alt="npm" style="margin-right: 10px; margin-top: 15px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png" />][repos]
 [<img align="left" alt="Yarn" style="margin-right: 10px" width="50px" src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" />][repos]
 
 <br />

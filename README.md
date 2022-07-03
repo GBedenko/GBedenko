@@ -1,6 +1,6 @@
 ## Hi, I'm Genaro 👋
 
-[<img align="left" alt="LinkedIn" width="50px" style="margin-right: 10px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="LinkedIn" width="50px" style="margin-right: 10px" src="https://www.flaticon.com/free-icon/linkedin_174857" />][linkedin]
 [<img align="left" alt="Blog" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" />][blog]
 
 <br />

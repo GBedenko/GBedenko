@@ -11,14 +11,14 @@
 
 [<img align="left" alt="JavaScript" style="margin-right: 10px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][repos]
 [<img align="left" alt="TypeScript" style="margin-right: 10px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][repos]
-[<img align="left" alt="MySQL" style="margin-right: 10px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png?20210130181641" />][repos]
+[<img align="left" alt="MySQL" style="margin-right: 10px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][repos]
 
 <br />
 <br />
 <br />
 
-[<img align="left" alt="Linux" style="margin-right: 10px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />][repos]
-[<img align="left" alt="Git" style="margin-right: 10px" width="50px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][repos]
+[<img align="left" alt="Linux" style="margin-right: 10px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][repos]
+[<img align="left" alt="Git" style="margin-right: 10px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][repos]
 [<img align="left" alt="Postman" style="margin-right: 10px" width="50px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" />][repos]
 
 <br />

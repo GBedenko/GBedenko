@@ -11,7 +11,7 @@
 
 [<img align="left" alt="JavaScript" style="margin-right: 10px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][repos]
 [<img align="left" alt="TypeScript" style="margin-right: 10px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][repos]
-[<img align="left" alt="MySQL" style="margin-right: 10px" width="50px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />][repos]
+[<img align="left" alt="MySQL" style="margin-right: 10px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][repos]
 
 <br />
 <br />
@@ -25,9 +25,9 @@
 <br />
 <br />
 
-[<img align="left" alt="HTML" style="margin-right: 10px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][repos]
-[<img align="left" alt="CSS" style="margin-right: 10px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][repos]
+[<img align="left" alt="HTML" style="margin-right: 10px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][repos]
 [<img align="left" alt="Angular" style="margin-right: 10px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][repos]
+[<img align="left" alt="CSS" style="margin-right: 10px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][repos]
 
 <br />
 <br />
